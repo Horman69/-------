@@ -7,7 +7,7 @@ const canvasWidth = (canvas.width = window.innerWidth);
 const canvasHeight = (canvas.height = window.innerHeight);
 
 // Задаем строку символов, которую будем отображать
-const text = "А+Б0В-Г1Д=Е2Ё Ж3З И4Й К5Л М6Н О7П Р8С Т9У Ф!Х Ц?Ч Ш.ЩЪ,Ы Ь:ЭЮ;Я";
+const text = "01s";
 const characters = text.split(""); // Разбиваем строку на массив символов
 
 // Инициализируем переменные для анимации
